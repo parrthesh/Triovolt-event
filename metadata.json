@@ -1,0 +1,8 @@
+{
+  "name": "Trivolt Campus",
+  "description": "A next-generation smart campus event management and navigation platform powered by AI. Features real-time event discovery, interactive campus maps, and an intelligent organizer dashboard.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
